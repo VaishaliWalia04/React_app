@@ -1,0 +1,10 @@
+button {
+    margin: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+body {
+    background-color: bisque;
+}
