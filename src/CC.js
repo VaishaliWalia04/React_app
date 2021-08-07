@@ -19,7 +19,7 @@ this.setState({number:this.state.number+1})
         <button onClick={this.subtract}> Subtract 1 </button>
     
     </div>
-p
+
 
 
 
